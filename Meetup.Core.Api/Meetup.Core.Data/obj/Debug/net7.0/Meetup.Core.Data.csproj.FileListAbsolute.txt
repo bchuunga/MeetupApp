@@ -1,0 +1,14 @@
+F:\Authorization\Meetup.Core.Api\Meetup.Core.Data\bin\Debug\net7.0\Meetup.Core.Data.deps.json
+F:\Authorization\Meetup.Core.Api\Meetup.Core.Data\bin\Debug\net7.0\Meetup.Core.Data.runtimeconfig.json
+F:\Authorization\Meetup.Core.Api\Meetup.Core.Data\bin\Debug\net7.0\Meetup.Core.Data.dll
+F:\Authorization\Meetup.Core.Api\Meetup.Core.Data\bin\Debug\net7.0\Meetup.Core.Data.pdb
+F:\Authorization\Meetup.Core.Api\Meetup.Core.Data\obj\Debug\net7.0\Meetup.Core.Data.csproj.AssemblyReference.cache
+F:\Authorization\Meetup.Core.Api\Meetup.Core.Data\obj\Debug\net7.0\Meetup.Core.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\Authorization\Meetup.Core.Api\Meetup.Core.Data\obj\Debug\net7.0\Meetup.Core.Data.AssemblyInfoInputs.cache
+F:\Authorization\Meetup.Core.Api\Meetup.Core.Data\obj\Debug\net7.0\Meetup.Core.Data.AssemblyInfo.cs
+F:\Authorization\Meetup.Core.Api\Meetup.Core.Data\obj\Debug\net7.0\Meetup.Core.Data.csproj.CoreCompileInputs.cache
+F:\Authorization\Meetup.Core.Api\Meetup.Core.Data\obj\Debug\net7.0\Meetup.Core.Data.dll
+F:\Authorization\Meetup.Core.Api\Meetup.Core.Data\obj\Debug\net7.0\refint\Meetup.Core.Data.dll
+F:\Authorization\Meetup.Core.Api\Meetup.Core.Data\obj\Debug\net7.0\Meetup.Core.Data.pdb
+F:\Authorization\Meetup.Core.Api\Meetup.Core.Data\obj\Debug\net7.0\Meetup.Core.Data.genruntimeconfig.cache
+F:\Authorization\Meetup.Core.Api\Meetup.Core.Data\obj\Debug\net7.0\ref\Meetup.Core.Data.dll

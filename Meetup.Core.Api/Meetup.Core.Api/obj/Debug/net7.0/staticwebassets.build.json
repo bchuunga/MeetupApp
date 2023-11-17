@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "q1zCj2KQz1Bm9uFFgjDAChwXHAv0UCxirLyZ9u4jemg=",
+  "Source": "Meetup.Core.Api",
+  "BasePath": "_content/Meetup.Core.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
